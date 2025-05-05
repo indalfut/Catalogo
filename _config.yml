@@ -1,0 +1,10 @@
+title: "Catálogo de Camisetas"
+description: "Mi colección de camisetas de fútbol"
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+plugins:
+  - jekyll-include-cache
+
+# Opcional: Skin de color
+minimal_mistakes_skin: "default" # (default, air, dark, neon, etc.)
